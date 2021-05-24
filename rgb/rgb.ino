@@ -10,7 +10,7 @@ void setup() {
 }
 
 void loop() {
-  setColor(255, 0, 0); // Red Color
+  setColor(255, 0, 0); // Colore rosso (HEX)
   delay(1000);
   setColor(225, 0, 0);
   delay(1000);
